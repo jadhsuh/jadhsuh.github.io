@@ -1,0 +1,9 @@
+a:link{
+    color: white;
+}
+a:visited{
+    color: white;
+}
+a:hover{
+    border-bottom: 8px solid white;
+}

@@ -1,0 +1,119 @@
+div{
+    font-family: 仿宋;
+}
+a{
+    text-decoration: none;
+}
+.Index{
+    background-image: url(../images/1首页/首页.png);
+    background-size: 1567px 1280px;
+    width: 1567px;
+    height: 1280px;
+    margin:  0 auto;
+}
+.NextBody{
+    width: 1567px;
+    height: auto;
+    margin: 0 auto;
+}
+.jingshen{
+    background-image: url(../images/2物质之光+精神之光/精神之光\ 00_00_00-00_00_30.gif);
+    background-size: 1567px 800px;
+    width: 1567px;
+    height: 800px;
+    margin: 0 auto;
+}
+.wuzhi{
+    background-image: url(../images/2物质之光+精神之光/物质之光\ 00_00_00-00_00_30.gif);
+    background-size: 1567px 800px;
+    width: 1567px;
+    height: 800px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.Nextbackgroundcolor{
+    background-color:#ddcba7;
+}
+.Spiritual-lightBody{
+    height: 8330px;
+    width: 1567px;
+    margin: 0 auto;
+}
+.nav{
+    width: 1567px;
+    height: 79px;
+    background-image: url(../images/3精神之光导览图/导航栏背景.jpg);
+    background-size: 1567px 79px;
+}
+.nav1{
+    float: left;
+    width: 180px;
+    height: 79px;
+    font-weight: bolder;
+    font-size: 42px;
+    line-height: 79px;
+    margin-left: 140px;
+    color: white;
+}
+.nav2{
+    float: left;
+    width: 180px;
+    height: 79px;
+    font-weight: bolder;
+    font-size: 42px;
+    line-height: 79px;
+    margin-left: 140px;
+    color: white;
+}
+.StandardBox{
+    background-size:1567px 1672px;
+    width: 1567px;
+    height: 1672px;
+}
+.name{
+    margin-left: 610px;
+    font-size: 75px;
+    height: 86px;
+    width: 300px;
+    font-weight: bolder;
+}
+.xianqu{
+    width: 1350px;
+    height: 1174px;
+    margin: 0 auto;
+}
+.a1{
+    width: 250px;
+    height: 1040px;
+    float: left;
+    background-size: 250px 1040px;
+}
+
+.a2{
+    width: 250px;
+    height: 1040px;
+    float: left;
+    background-size: 250px 1040px;
+    margin-left: 25px;
+}
+.a3{
+    width: 290px;
+    height: 1040px;
+    float: left;
+    background-size: 290px 1040px;
+    margin-left: 50px;
+}
+.a4{
+    width: 290px;
+    height: 1040px;
+    float: left;
+    background-size: 290px 1040px;
+    margin-left: 60px;
+}
+.a5{
+    width: 400px;
+    height: 1040px;
+    float: left;
+    background-size: 400px 1040px;
+    margin-left: 65px;
+}
